@@ -1,0 +1,21 @@
+@import '../../../styles/card.css';
+
+.ticket {
+  width: 100%;
+  text-align: center;
+  /* // background: red; */
+}
+
+.ticket:hover {
+  cursor: pointer;
+}
+
+.delbtn {
+  border-radius: 55% 4%;
+  background-color: yellow;
+}
+
+.delbtn:hover {
+  background-color: green (101, 179, 1);
+  color: black;
+}
